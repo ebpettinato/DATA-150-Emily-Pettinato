@@ -1,4 +1,4 @@
-# Data 150
+# Human Development and Data Science
 ## Informal Responses
 
 1. Sept. 5th Joshua Blumenstock [Humbler Data Science](blumenstock.md)
