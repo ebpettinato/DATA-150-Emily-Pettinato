@@ -6,6 +6,8 @@ Rosling’s initial goal for his survey was to determine how much his students a
 
 ### 2. What type of change took place in Asia preceded economic growth? Why was this type of change significant?
 
+Social change preceded economic growth in Asia. Health and wellness were invested in and promoted. The people became more educated about their health, most significantly family planning. Families got smaller and lived longer, a key factor in development that cannot be bought with money. This change helped spur economic growth, which catapulted their development at a much more rapid pace than those of countries who gained money before health. 
+
 ### 3. In accordance with Hans Rosling's TED talk, what is the relationship between child mortality and GDP per capita?
 
 ### 4. In terms of income distribution, how has the world changed from 1962 until 2003?
