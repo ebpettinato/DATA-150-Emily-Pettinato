@@ -18,6 +18,7 @@ In 1962, there was a very distinct separation between developed and developing c
 
 ### 5.	What is the significance of how Hans Rosling uses data to describe global human development in terms of high spatial and temporal resolutions? How does this relate to his previous observation regarding preconceived ideas?
 
+In this TED Talk Hans Rosling makes a point to show how vastly different data from countries from the same region, and even people from the same country, can be. He does this to illustrate how you really can’t make blanket statements or judgements about any region of the world. Therefore, you can’t just look at a continent and assume they all need aide for the same. Solutions need to be made for countries base on its individual problems. This goes back to the preconceived notions from the beginning of the talk. Let’s take Africa for example. A lot of people hear Africa and think of starving children in huts and assume that every nation in Africa is very poor. But, the continent is actually very diverse when it comes to economic standing and levels of development.
 
 ### 6. In your opinion, why was Hans Rosling's work with the Gapminder project significant in contributing towards advancing the intersection of data science and global human development?
 
