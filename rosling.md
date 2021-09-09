@@ -14,6 +14,6 @@ There is a very strong linear relationship between child mortality rate and GDP 
 
 ### 4. In terms of income distribution, how has the world changed from 1962 until 2003?
 
-### 5. What is the significance of how Hans Rosling uses data to describe global human development in terms of high spatial and temporal resolutions? How does this relate to his previous observation regarding preconceived ideas?
+In 1962, there was a very distinct separation between developed and developing countries. Developed countries had high income levels and developing countries had low income levels, creating a significant divide between the two. However, as time has gone on, that divide has all but vanished. Now both developed and developing countries each have a range of income spanning to both ends of the spectrum. Most people all over the world fall in the middle portion of the scale, creating a much more balanced distribution. ### 5. What is the significance of how Hans Rosling uses data to describe global human development in terms of high spatial and temporal resolutions? How does this relate to his previous observation regarding preconceived ideas?
 
 ### 6. In your opinion, why was Hans Rosling's work with the Gapminder project significant in contributing towards advancing the intersection of data science and global human development?
