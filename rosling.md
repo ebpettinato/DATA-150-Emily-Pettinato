@@ -9,4 +9,4 @@
 ### 4. In terms of income distribution, how has the world changed from 1962 until 2003?
 
 ### 5. What is the significance of how Hans Rosling uses data to describe global human development in terms of high spatial and temporal resolutions?
-### 6. In your opinion, why was Hans Rosling
+### 6. In your opinion, why was Hans Rosling's work with Gapminder project significant to the remarjable process in the area of data science and human development?
