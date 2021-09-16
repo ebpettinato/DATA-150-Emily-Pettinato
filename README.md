@@ -1,4 +1,6 @@
 # Human Development and Data Science
+## Introduction
+
 ## Informal Responses
 
 1. Sept. 5th Joshua Blumenstock [Humbler Data Science](blumenstock.md)
