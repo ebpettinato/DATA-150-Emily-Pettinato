@@ -9,4 +9,5 @@ Hi! Welcome to my repository! My name is Emily Pettinato. I am a freshman at Wil
 1. Sept. 5th Joshua Blumenstock [Humbler Data Science](blumenstock.md)
 2. Sept. 9th Hans Rosling [The Best Stats You've Ever Seen](rosling.md)
 3. Sept. 21st Owen Barder [Developement & Complexity](barder.md)
-4. Sept. 23rd [First In Class Essay](classone.md)
+4. Sept. 23rd [First in Class Essay](classone.md)
+5. Sept. 28th [Second in Class Essay](classtwo.md)
