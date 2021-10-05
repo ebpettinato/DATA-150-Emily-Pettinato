@@ -12,3 +12,8 @@ Hi! Welcome to my repository! My name is Emily Pettinato. I am a freshman at Wil
 4. Sept. 23rd [First in Class Essay](classone.md)
 5. Sept. 28th [Second in Class Essay](classtwo.md)
 6. Sept. 30th [Third in Class Essay](classthree.md)
+
+
+## Semester Project Assignments
+
+1. Assignment 1 [Annotated Bibliography](annotatedbibliography.dox)
