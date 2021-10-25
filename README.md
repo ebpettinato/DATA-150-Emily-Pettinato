@@ -20,3 +20,4 @@ Hi! Welcome to my repository! My name is Emily Pettinato. I am a freshman at Wil
 ## Semester Project Assignments
 
 1. Assignment 1 [Annotated Bibliography](bibliography.md)
+2. Assignment 2 [Literature Review](litreview.md)
