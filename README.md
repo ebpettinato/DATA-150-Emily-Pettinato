@@ -16,7 +16,7 @@ Hi! Welcome to my repository! My name is Emily Pettinato. I am a freshman at Wil
 8. Oct. 12th [Belt and Road Initiative](bri.md)
 9. Oct. 21st [Fifth in Class Essay](classfive.md)
 10. Oct. 28th
-11. Nov. 2nd [Sixth in Class Essay](classsix.md)
+11. Nov. 2nd [Human Developement Index](hdi.md)
 
 
 ## Semester Project Assignments
