@@ -25,4 +25,4 @@ Hi! Welcome to my repository! My name is Emily Pettinato. I am a freshman at Wil
 2. *Assignment 2 [Literature Review](litreview.md)
 
 
-##### the assignments marked with an * signify those that I completed while recovering from a concussion, while that is not an excuse for bad work, I thought it might be worth noting  
+###### the assignments marked with an * signify those that I completed while recovering from a concussion, while that is not an excuse for bad work, I thought it might be worth noting  
