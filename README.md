@@ -15,11 +15,14 @@ Hi! Welcome to my repository! My name is Emily Pettinato. I am a freshman at Wil
 7. Oct. 7th [Fourth in Class Essay](classfour.md)
 8. Oct. 12th [Belt and Road Initiative](bri.md)
 9. Oct. 21st [Fifth in Class Essay](classfive.md)
-10. Oct. 28th
-11. Nov. 2nd [Human Developement Index](hdi.md)
+10. *Oct. 28th
+11. *Nov. 2nd [Human Developement Index](hdi.md)
 
 
 ## Semester Project Assignments
 
 1. Assignment 1 [Annotated Bibliography](bibliography.md)
-2. Assignment 2 [Literature Review](litreview.md)
+2. *Assignment 2 [Literature Review](litreview.md)
+
+
+### the assignments marked with an * signify those that I completed while recovering from a concussion, while that is not an excuse for bad work, I thought it might be worth noting  
