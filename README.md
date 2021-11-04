@@ -17,6 +17,7 @@ Hi! Welcome to my repository! My name is Emily Pettinato. I am a freshman at Wil
 9. Oct. 21st [Fifth in Class Essay](classfive.md)
 10. *Oct. 28th [What is Data Science?](whatis.md)
 11. *Nov. 2nd [Human Developement Index](hdi.md)
+12. *Nov 4th [Topic I Find Interesting](me.md)
 
 
 ## Semester Project Assignments
