@@ -1,0 +1,1 @@
+# What are your general thoughts on government and private company utilization of technologies that are able to recognize a face and/or match a human face from a digital image or a video frame against a database of faces? What advantages or benefits could/do such technologies provide? What role (if any) should a government play in regulating their use by individuals or companies?
