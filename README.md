@@ -20,7 +20,7 @@ Hi! Welcome to my repository! My name is Emily Pettinato. I am a freshman at Wil
 12. *Nov 4th [Topic I Find Interesting: the Cost of Aging](aging.md)
 13. *Nov 9th [Facial Recognition](face.md)
 14. Nov 11th [The Effect of Covid-19 on the Finance and Business World](covid.md)
-15. Nov 16th
+15. Nov 16th [Self Driving Vehicles](car.md)
 
 
 ## Semester Project Assignments
