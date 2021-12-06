@@ -28,6 +28,7 @@ Hi! Welcome to my repository! My name is Emily Pettinato. I am a freshman at Wil
 1. [Assignment 1 Annotated Bibliography](bibliography.md)
 2. *[Assignment 2 Literature Review](litreview.md)
 3. [Assignment 3](ass3.md)
+4. [Assignment 4](ass4.md)
 
 
 ###### the assignments marked with an * signify those that I completed while recovering from a concussion, while that is not an excuse for bad work, I thought it might be worth noting  
